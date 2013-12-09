@@ -1,0 +1,3 @@
+ofxOpenCv
+ofxLibwebsockets
+ofxSpacebrew
